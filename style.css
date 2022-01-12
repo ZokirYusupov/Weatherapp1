@@ -3,10 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+#weatherIconData{
+    width: 80%;
+    display: inline-block;
+}
 body{
     /* height: 100vh; */
     font-family: 'montserrat', sans-serif;
-    background-image: url("/nikolas-noonan-fQM8cbGY6iQ-unsplash.jpg");
+    background-image: url("https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80");
     /* background-image: url("https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"); */
     background-size: cover;
     object-fit:cover;
